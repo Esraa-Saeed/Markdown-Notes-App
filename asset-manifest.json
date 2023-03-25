@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Markdown-Notes-App/static/css/main.05a3d234.css",
+    "main.js": "/Markdown-Notes-App/static/js/main.eaafd2eb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Markdown-Notes-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Markdown-Notes-App/index.html",
+    "main.05a3d234.css.map": "/Markdown-Notes-App/static/css/main.05a3d234.css.map",
+    "main.eaafd2eb.js.map": "/Markdown-Notes-App/static/js/main.eaafd2eb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Markdown-Notes-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a3d234.css",
+    "static/js/main.eaafd2eb.js"
+  ]
+}
